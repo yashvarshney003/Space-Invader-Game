@@ -2,7 +2,7 @@
 # Space-Invader-Game
 Thsi is a space invader game created with pygame python library. 
 For see and check click
-https://repl.it/@yashvarshney1/Space-Invader-Game#.replit
+https://replit.com/@yashvarshney1/spaceattackpy#main.py
 
 
 
